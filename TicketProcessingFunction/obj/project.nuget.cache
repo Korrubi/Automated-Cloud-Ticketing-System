@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "SxRkudoGJJptGJ0Yk3Gk+PSku/5HhECmQp2rVCr3e+A2xINOyTLiyl9GFilq+BsvgO0rg7Jjfn7IoMdCsqq4og==",
+  "success": true,
+  "projectFilePath": "F:\\School\\CS455\\Code\\PlateReaderFunction\\TicketProcessingFunction\\TicketProcessingFunction.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\conne\\.nuget\\packages\\amazon.lambda.core\\2.1.0\\amazon.lambda.core.2.1.0.nupkg.sha512",
+    "C:\\Users\\conne\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.3.0\\amazon.lambda.serialization.systemtextjson.2.3.0.nupkg.sha512",
+    "C:\\Users\\conne\\.nuget\\packages\\amazon.lambda.sqsevents\\2.1.0\\amazon.lambda.sqsevents.2.1.0.nupkg.sha512",
+    "C:\\Users\\conne\\.nuget\\packages\\awssdk.core\\3.7.11.13\\awssdk.core.3.7.11.13.nupkg.sha512",
+    "C:\\Users\\conne\\.nuget\\packages\\awssdk.simpleemail\\3.7.0.169\\awssdk.simpleemail.3.7.0.169.nupkg.sha512",
+    "C:\\Users\\conne\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\6.0.5\\microsoft.netcore.app.crossgen2.win-x64.6.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

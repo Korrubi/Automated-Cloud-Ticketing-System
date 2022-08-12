@@ -1,0 +1,79 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "gamerapp/1.0.0": {
+        "dependencies": {
+          "AWSSDK.Core": "3.7.11.12",
+          "AWSSDK.S3": "3.7.9.12",
+          "Amazon.Lambda.S3Events": "2.0.1"
+        },
+        "runtime": {
+          "gamerapp.dll": {}
+        }
+      },
+      "Amazon.Lambda.S3Events/2.0.1": {
+        "dependencies": {
+          "AWSSDK.S3": "3.7.9.12"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Amazon.Lambda.S3Events.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "AWSSDK.Core/3.7.11.12": {
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.Core.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.11.12"
+          }
+        }
+      },
+      "AWSSDK.S3/3.7.9.12": {
+        "dependencies": {
+          "AWSSDK.Core": "3.7.11.12"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.S3.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.9.12"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "gamerapp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Amazon.Lambda.S3Events/2.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-PGEMrodAzXzfrQI0AAUP7Wckmh3AvdOsuNQVF0kVYAX1b3jI0YkAcIkixCzkheDHRf1SUF3ROFilYv+JO2SDhg==",
+      "path": "amazon.lambda.s3events/2.0.1",
+      "hashPath": "amazon.lambda.s3events.2.0.1.nupkg.sha512"
+    },
+    "AWSSDK.Core/3.7.11.12": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3X9+uQi2QSB/WCgBJgMv1SVzLhvpwYUGxJHlzYB89QeK9cqiezUNobEOdQ1r4vSzUVg8pt/pJKGjFSH0NINVwA==",
+      "path": "awssdk.core/3.7.11.12",
+      "hashPath": "awssdk.core.3.7.11.12.nupkg.sha512"
+    },
+    "AWSSDK.S3/3.7.9.12": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-41pDSeoYNx+GXm6T43kAjOPyTTB1Imc0cvbpekzPeRDM0PHRqUR1Xjhk4DcSltro4lO1pDtzY6yza5mnB+zw7A==",
+      "path": "awssdk.s3/3.7.9.12",
+      "hashPath": "awssdk.s3.3.7.9.12.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+F:\School\CS455\Code\PlateReaderFunction\TicketProcessingFunction\bin\Release\net6.0\publish\TicketProcessingFunction.deps.json
+F:\School\CS455\Code\PlateReaderFunction\TicketProcessingFunction\bin\Release\net6.0\publish\TicketProcessingFunction.runtimeconfig.json
+F:\School\CS455\Code\PlateReaderFunction\TicketProcessingFunction\bin\Release\net6.0\publish\TicketProcessingFunction.pdb
+F:\School\CS455\Code\PlateReaderFunction\TicketProcessingFunction\bin\Release\net6.0\publish\Amazon.Lambda.Core.dll
+F:\School\CS455\Code\PlateReaderFunction\TicketProcessingFunction\bin\Release\net6.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+F:\School\CS455\Code\PlateReaderFunction\TicketProcessingFunction\bin\Release\net6.0\publish\Amazon.Lambda.SQSEvents.dll
+F:\School\CS455\Code\PlateReaderFunction\TicketProcessingFunction\bin\Release\net6.0\publish\AWSSDK.Core.dll
+F:\School\CS455\Code\PlateReaderFunction\TicketProcessingFunction\bin\Release\net6.0\publish\AWSSDK.SimpleEmail.dll
+F:\School\CS455\Code\PlateReaderFunction\TicketProcessingFunction\bin\Release\net6.0\publish\TicketProcessingFunction.dll

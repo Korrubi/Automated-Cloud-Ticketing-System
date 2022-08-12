@@ -1,0 +1,14 @@
+F:\School\CS455\Code\PlateReaderFunction\XMLParse\bin\Debug\netcoreapp3.1\XMLParse.exe
+F:\School\CS455\Code\PlateReaderFunction\XMLParse\bin\Debug\netcoreapp3.1\XMLParse.deps.json
+F:\School\CS455\Code\PlateReaderFunction\XMLParse\bin\Debug\netcoreapp3.1\XMLParse.runtimeconfig.json
+F:\School\CS455\Code\PlateReaderFunction\XMLParse\bin\Debug\netcoreapp3.1\XMLParse.runtimeconfig.dev.json
+F:\School\CS455\Code\PlateReaderFunction\XMLParse\bin\Debug\netcoreapp3.1\XMLParse.dll
+F:\School\CS455\Code\PlateReaderFunction\XMLParse\bin\Debug\netcoreapp3.1\XMLParse.pdb
+F:\School\CS455\Code\PlateReaderFunction\XMLParse\obj\Debug\netcoreapp3.1\XMLParse.csproj.AssemblyReference.cache
+F:\School\CS455\Code\PlateReaderFunction\XMLParse\obj\Debug\netcoreapp3.1\XMLParse.GeneratedMSBuildEditorConfig.editorconfig
+F:\School\CS455\Code\PlateReaderFunction\XMLParse\obj\Debug\netcoreapp3.1\XMLParse.AssemblyInfoInputs.cache
+F:\School\CS455\Code\PlateReaderFunction\XMLParse\obj\Debug\netcoreapp3.1\XMLParse.AssemblyInfo.cs
+F:\School\CS455\Code\PlateReaderFunction\XMLParse\obj\Debug\netcoreapp3.1\XMLParse.csproj.CoreCompileInputs.cache
+F:\School\CS455\Code\PlateReaderFunction\XMLParse\obj\Debug\netcoreapp3.1\XMLParse.dll
+F:\School\CS455\Code\PlateReaderFunction\XMLParse\obj\Debug\netcoreapp3.1\XMLParse.pdb
+F:\School\CS455\Code\PlateReaderFunction\XMLParse\obj\Debug\netcoreapp3.1\XMLParse.genruntimeconfig.cache

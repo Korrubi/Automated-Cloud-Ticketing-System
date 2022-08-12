@@ -1,0 +1,12 @@
+F:\School\CS455\Code\PlateReaderFunction\PlateReader\bin\Release\net6.0\publish\PlateReader.deps.json
+F:\School\CS455\Code\PlateReaderFunction\PlateReader\bin\Release\net6.0\publish\PlateReader.runtimeconfig.json
+F:\School\CS455\Code\PlateReaderFunction\PlateReader\bin\Release\net6.0\publish\PlateReader.pdb
+F:\School\CS455\Code\PlateReaderFunction\PlateReader\bin\Release\net6.0\publish\Amazon.Lambda.Core.dll
+F:\School\CS455\Code\PlateReaderFunction\PlateReader\bin\Release\net6.0\publish\Amazon.Lambda.S3Events.dll
+F:\School\CS455\Code\PlateReaderFunction\PlateReader\bin\Release\net6.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+F:\School\CS455\Code\PlateReaderFunction\PlateReader\bin\Release\net6.0\publish\Amazon.Lambda.SQSEvents.dll
+F:\School\CS455\Code\PlateReaderFunction\PlateReader\bin\Release\net6.0\publish\AWSSDK.Core.dll
+F:\School\CS455\Code\PlateReaderFunction\PlateReader\bin\Release\net6.0\publish\AWSSDK.Rekognition.dll
+F:\School\CS455\Code\PlateReaderFunction\PlateReader\bin\Release\net6.0\publish\AWSSDK.S3.dll
+F:\School\CS455\Code\PlateReaderFunction\PlateReader\bin\Release\net6.0\publish\AWSSDK.SQS.dll
+F:\School\CS455\Code\PlateReaderFunction\PlateReader\bin\Release\net6.0\publish\PlateReader.dll

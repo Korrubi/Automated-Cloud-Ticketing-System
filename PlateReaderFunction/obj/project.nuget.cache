@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ow+v3usBSkrVTftzLTxgIMt/R+LUknSRWY26iS6vYeCEUZFLBw4PqgTBLeLUpXWzZpdOJBWYmq0cxN1vesNDjA==",
+  "success": true,
+  "projectFilePath": "F:\\School\\CS455\\Code\\PlateReaderFunction\\PlateReaderFunction\\PlateReaderFunction.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\conne\\.nuget\\packages\\amazon.lambda.core\\2.1.0\\amazon.lambda.core.2.1.0.nupkg.sha512",
+    "C:\\Users\\conne\\.nuget\\packages\\amazon.lambda.s3events\\2.0.1\\amazon.lambda.s3events.2.0.1.nupkg.sha512",
+    "C:\\Users\\conne\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.3.0\\amazon.lambda.serialization.systemtextjson.2.3.0.nupkg.sha512",
+    "C:\\Users\\conne\\.nuget\\packages\\awssdk.core\\3.7.11.3\\awssdk.core.3.7.11.3.nupkg.sha512",
+    "C:\\Users\\conne\\.nuget\\packages\\awssdk.s3\\3.7.9.3\\awssdk.s3.3.7.9.3.nupkg.sha512",
+    "C:\\Users\\conne\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\6.0.5\\microsoft.netcore.app.crossgen2.win-x64.6.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

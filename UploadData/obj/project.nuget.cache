@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "yHQ/7xgkpNw4zIJKABW/8VzkPuAo5p7L5Z1tG/Dpqgdx8ogMvISuVVvHWlgwOJmxnWjaaCAxurMunJ9dczOdCA==",
+  "success": true,
+  "projectFilePath": "F:\\School\\CS455\\Code\\PlateReaderFunction\\UploadData\\UploadData.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\conne\\.nuget\\packages\\awssdk.core\\3.7.11.13\\awssdk.core.3.7.11.13.nupkg.sha512",
+    "C:\\Users\\conne\\.nuget\\packages\\awssdk.s3\\3.7.9.13\\awssdk.s3.3.7.9.13.nupkg.sha512"
+  ],
+  "logs": []
+}
